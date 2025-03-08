@@ -21,7 +21,7 @@ fun PageZ(navController: NavHostController) {
         Button(onClick = {
             navController.navigate(Routes.PageX)
         }) {
-            Text(text = "Go to PageX")
+            Text(text = "Go to PageXSX")
         }
     }
 }
